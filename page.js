@@ -1,3 +1,5 @@
+alert("Hello Master!")
+
 var userPreference;
 
 if (confirm("Do you want to save changes?") == true) {
